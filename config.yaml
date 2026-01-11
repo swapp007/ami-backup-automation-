@@ -1,0 +1,9 @@
+aws_region: ap-south-1
+
+instances:
+  - i-0c883c5eab54ed189
+  - i-08cd2bf8e4a807313
+
+retention_days: 7
+
+backup_tag: AutoBackup
